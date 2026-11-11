@@ -18,9 +18,9 @@ key storage, RRAM usage, protection-context switching, TF-M storage, and encrypt
 ## Prerequisites
 ### Recommended trainings
 - This training assumes familiarity with basic concepts of ModusToolbox™ and PSOC™ Edge security.
-  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/psocdeveloper).
   - For an introduction to PSOC™ Edge security, visit the [PSOC™ Edge Security Introduction training](https://github.com/Infineon/mtb-training-psoc-edge-security-intro).
-  - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
+  - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, visit the [PSOC™ Edge training collection at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 
 ## Duration
 - 30 minutes, including the presentation
@@ -39,11 +39,14 @@ key storage, RRAM usage, protection-context switching, TF-M storage, and encrypt
 ## Content
 - [Presentation](./Presentation/PSE_security_epc2_vs_epc4.pdf)
 
+## More PSOC™ Edge training
+- [PSOC™ Edge E8x2/E8x3/E8x5/E8x6 training](https://github.com/Infineon/psoc-training-edge-e8x6) — Landing page with the full learning path and all PSOC™ Edge trainings, including security, graphics, voice and audio, and machine learning.
+- [PSOC™ Edge training collection at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd) — Collection of videos for PSOC™ Edge trainings.
+
 ## References and resources
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
 - [Infineon Edge Protect](https://www.infineon.com/promo/edge-protect)
-- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
-- [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd)
+- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/psocdeveloper)
 
 ## History
 
